@@ -22,3 +22,7 @@ Incluye diagramas, documentación y archivos necesarios para su implementación.
 > 💡 *"Una base de datos bien diseñada es el corazón de un sistema eficiente."*
 
 ---
+
+🔗 [📖 Documentación oficial de MySQL](https://dev.mysql.com/doc/)
+
+![Base de Datos](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Database-icon.svg/640px-Database-icon.svg.png)
